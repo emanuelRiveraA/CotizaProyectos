@@ -34,8 +34,8 @@ public String result;
 
         url = "jdbc:mysql://localhost:3306/proyectos?useLegacyDatetimeCode=false&serverTimezone=America/New_York";
         driver = "com.mysql.cj.jdbc.Driver";
-        usuario = "root";
-        password = "root";
+        usuario = "user";
+        password = "pass";
 
         try {
 
